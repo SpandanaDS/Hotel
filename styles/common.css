@@ -49,15 +49,12 @@ body{
 #contact{
      float: left;
      margin-left: 10%;
-   
-   
-    
-     
 }
 #copyright{
     font-size: 12px;
     text-align: center;
-   
-   
+}
+.rating{
+    color:orange;
 }
 
