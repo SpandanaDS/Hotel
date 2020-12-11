@@ -19,7 +19,8 @@ body{
     position: fixed;
     width: 100%;
      top: 0;
-     z-index:1; 
+     z-index: 1;
+  
     
 }
 #footer{
@@ -57,5 +58,9 @@ body{
 }
 .rating{
     color:orange;
+}
+.modal-footer{
+    display: flex;
+    justify-content: center;
 }
 
